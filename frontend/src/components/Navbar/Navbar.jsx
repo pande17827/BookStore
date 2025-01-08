@@ -3,7 +3,7 @@
 const Navbar = () => {
   return (
     <>
-        <div>
+        <div className="bg-red-500">
             <h1>Pandey</h1>
         </div>
         
