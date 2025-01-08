@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar/Navbar"
 function App() {
   return (
     <>
-      <h1>Pandey</h1>
+      
       <Navbar></Navbar>
       <Home></Home>
       <Footer></Footer>
