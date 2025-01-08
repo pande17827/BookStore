@@ -7,7 +7,7 @@ const Navbar = () => {
         <div
             className="bg-zinc-80"
         >
-            
+            Navbar
         </div>
     </>
   )
