@@ -6,7 +6,9 @@ const Navbar = () => {
         
         <div
             className="bg-zinc-80"
-        ></div>
+        >
+            
+        </div>
     </>
   )
 }
