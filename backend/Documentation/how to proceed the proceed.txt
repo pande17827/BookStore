@@ -1,0 +1,44 @@
+    
+Part1:server creation  and database connection 
+    1.create projet folder(backend folder)
+    2.npm init -y(to initialize th project)
+    3.npm install mongoose express nodemon dotenv
+    4.creating a basic servers using express(app.js)
+    6.put all the important data that can be used globally in .env file
+    7.make the conn folder(for database connection)
+    8.create database in mongoose(online and get the URI and get the database name)
+
+
+part2:- schemas creating
+1.crete a folder named model which will contain all the schemas
+    1.creating user schemas
+        it cotains
+            username
+            email
+            password
+            address
+            avatar(the profile icon)
+            favourites
+            cart
+            orders
+
+    2.creating the order schemeas
+        it contains:
+            user
+            book
+            status
+    
+    3. creating the book schemeas
+        it contains:
+            url
+            title
+            author
+            price
+            desc
+            language
+
+part3:authentication
+        1.create a folder named routes
+
+    
+
