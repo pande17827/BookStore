@@ -3,9 +3,9 @@
 const Navbar = () => {
   return (
     <>
-        <h1>Navbar</h1>
+        
         <div
-            className="bg-zin"
+            className="bg-zinc-80"
         ></div>
     </>
   )
