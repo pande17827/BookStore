@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
         <h1>Navbar</h1>
         <div
-            c
+            className="bg-zin"
         ></div>
     </>
   )
